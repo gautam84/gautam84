@@ -1,6 +1,6 @@
 ### Hi there, I'm Gautam👋
 
-## I'm a Learner, Developer and Visionary
+## I'm a Learner, Developer and Technology Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam84&label=Views&color=blue&style=plastic" alt="gautam84" /> </p>
 
