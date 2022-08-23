@@ -60,5 +60,5 @@
 
 [twitter]: https://twitter.com/GautamHazarika9
 [stackoverflow]: https://stackoverflow.com/u/14052125
-[instagram]: https://www.instagram.com/gautam.haz/
+[instagram]: https://www.instagram.com/gautam.hz/
 [linkedin]: https://www.linkedin.com/in/gautamhazarika/
