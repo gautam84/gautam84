@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam84&label=Views&color=blue&style=plastic" alt="gautam84" /> </p>
 
 - 🔭 I’m currently working on <b>Myself</b>
-- 🌱 I’m currently learning about Android Development!
+- 🌱 I’m currently exploring different fields in CSE!
 - 💬 Ask me about Android Development, Kotlin and Java.
-- 🥅 2022 Goals: Learn about Artificial Intelligence and Machine Learning!
+- 🥅 2023 Goals: Learn about Artificial Intelligence and Machine Learning!
 - ⚡ Fun fact: I love to watch Netflix series and new movies!
 
 ### Connect with me:
