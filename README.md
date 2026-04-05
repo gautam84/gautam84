@@ -21,7 +21,7 @@ Final-year CS student at Gauhati University with **4+ years** of Android and Flu
 
 Currently exploring the intersection of **mobile development and AI** — from on-device inference to agentic tooling.
 
-- 📱 Maintaining **[Foodike](https://github.com/gautam84/Foodike)** — an open-source Android food ordering app (⭐ 54)
+- 📱 Maintaining **[Foodike](https://github.com/gautam84/Foodike)** — an open-source Android food ordering app
 - ✍️ Writing about Android & Flutter on [X](https://twitter.com/GautamHazarika9)
 - 🎓 Taught Android Development at **IIT Guwahati (TechNiche)**
 - 💼 Previously: Frontend Intern @ Aabhar, Mobile Dev @ Nearo & Ziga
