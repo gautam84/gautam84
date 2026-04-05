@@ -2,12 +2,12 @@
 
 # Gautam Hazarika
 
-**Mobile Engineer · Open Source Builder · Content Creator**
+**Mobile Engineer · Open Source Builder**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gautamhz.com-000000?style=flat-square&logo=safari&logoColor=white)](https://gautamhz.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@GautamHazarika9-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/GautamHazarika9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gautamhazarika-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautamhazarika/)
-\[![StackOverflow](https://img.shields.io/badge/StackOverflow-14052125-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/u/14052125)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-14052125-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/u/14052125)
 
 <img src="https://komarev.com/ghpvc/?username=gautam84&label=Profile+Views&color=0e75b6&style=flat-square" alt="gautam84" />
 
@@ -17,7 +17,7 @@
 
 ## About
 
-Final-year CS student at Gauhati University with **5+ years** of Android and Flutter development experience. I build production-grade mobile apps, maintain open-source projects, and write about Android, Flutter, and AI.
+Final-year CS student at Gauhati University with **4+ years** of Android and Flutter development experience. I build production-grade mobile apps, maintain open-source projects, and write about Android, Flutter, and AI.
 
 Currently exploring the intersection of **mobile development and AI** — from on-device inference to agentic tooling.
 
