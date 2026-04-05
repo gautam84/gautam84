@@ -64,10 +64,10 @@ Currently exploring the intersection of **mobile development and AI** — from o
 
 ## Featured Projects
 
-| Project | Description | Stack | Stars |
-|---|---|---|---|
-| [Foodike](https://github.com/gautam84/Foodike) | Open-source Android food ordering app | Kotlin, MVVM, Firebase | ⭐ 54 |
-| [Quizella](https://github.com/gautam84/Quizella) | Quiz app with clean architecture | Kotlin, Jetpack Compose | Open Source |
+| Project | Description | Stack | 
+|---|---|---|
+| [Foodike](https://github.com/gautam84/Foodike) | Open-source Android food ordering app | Kotlin, MVVM, Firebase |
+| [Quizella](https://github.com/gautam84/Quizella) | Quiz app with clean architecture | Kotlin, Jetpack Compose | 
 
 ---
 
