@@ -24,7 +24,7 @@ Currently exploring the intersection of **mobile development and AI** — from o
 - 📱 Maintaining **[Foodike](https://github.com/gautam84/Foodike)** — an open-source Android food ordering app
 - ✍️ Writing about Android & Flutter on [X](https://twitter.com/GautamHazarika9)
 - 🎓 Taught Android Development at **IIT Guwahati (TechNiche)**
-- 💼 Previously: Frontend Intern @ Aabhar, Mobile Dev @ Nearo & Ziga
+- 💼 Previously: Frontend Intern @ HDFC Bank, Mobile Dev @ Nearo & Ziga
 
 ---
 
